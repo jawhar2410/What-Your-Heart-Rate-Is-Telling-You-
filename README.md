@@ -25,3 +25,5 @@ age	sex	cp	trestbps	chol	fbs	restecg	thalach	exang	oldpeak	slope	ca	thal	class
 * matplotlib
 <img src="https://miro.medium.com/max/1370/1*BLx1p0j0zVhPf_VC-OTwCQ.png">  
 
+## conclusion 
+Bien que notre modèle ait une précision globale de 0,71, certains cas ont été mal classés, comme indiqué dans la matrice de confusion. Une façon d'améliorer notre modèle actuel consiste à inclure d'autres prédicteurs pertinents de l'ensemble de données dans notre modèle, mais c'est une tâche pour un autre jour
